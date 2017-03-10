@@ -1,2 +1,2 @@
-# hello_world
-just a new repository
+#cpp_projects
+this repository contains working cpp projects
